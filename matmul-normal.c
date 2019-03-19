@@ -97,4 +97,4 @@ get_walltime(&te);
 }
 
 //Program compliles using the following:
-//gcc -Wall -O2 EX1.c -o Ex1 -DN=400
+//gcc -Wall -O2 matmul-normal.c -o matmul-normal -DN=400
